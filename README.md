@@ -36,4 +36,4 @@
   
    ##
    
-   [![Discord Presence](https://lanyard.cnrad.dev/api/995052687982862377)](https://discord.com/users/995052687982862377)
+   [![Discord Presence](https://lanyard.cnrad.dev/api/995052687982862377?idleMessage="Talvez%20Codigo%20Esteja%20Brincando%20Com%20Você"&borderRadius=25px)](https://discord.com/users/995052687982862377)
