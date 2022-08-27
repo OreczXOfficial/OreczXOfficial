@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opa, Sou o *OreczX*👋
 
 - 🔭 Estou no projeto do Kayky Design!
 - 🌱 Estou aprendendo JavaScript
